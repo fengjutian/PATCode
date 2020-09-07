@@ -7,6 +7,8 @@
 在一行中给出得分最高的学校的编号及其总分，中间以空格分隔。题目答案唯一，没有并列。
 */
 
+
+
 #include <cstdio>
 const int maxn = 100010;
 int school[maxn] = {0};
